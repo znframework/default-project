@@ -1,6 +1,6 @@
 {
     "name": "znframework/default-project",
-    "version": "6.0.2",
+    "version": "6.0.3",
     "type": "project",
     "description": "ZN Framework Default Project For Multi Edition",
     "keywords": ["zn","zeroneed","default project"],
